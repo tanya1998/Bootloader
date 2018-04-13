@@ -1,5 +1,6 @@
 ;PRAGYA PRAKASH(2016067)
 ;TANYA RAJ(2016108)
+;Reference:- https://wiki.osdev.org/Setting_Up_Long_Mode
 [BITS 16]
 org 0x7c00
 
